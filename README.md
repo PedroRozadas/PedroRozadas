@@ -1,5 +1,5 @@
 ## Hi there 👋
-:flag_argentina:
+🇦🇷
 - 🔭 I’m currently seeking work
 - 🌱 I’m currently learning Biomedical Engineering at UNSAM
 <!--
